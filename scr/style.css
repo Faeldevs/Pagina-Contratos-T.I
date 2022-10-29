@@ -1,0 +1,19 @@
+@import url(cabecalho.css);
+@import url(sobre.css);
+@import url(metricas.css);
+@import url(vagas.css);
+@import url(profissoes.css);
+@import url(colaborador.css);
+@import url(formulario.css);
+@import url(rodape.css);
+
+
+body{
+    background-color: #ffff;
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+    height: 100vh;
+}
+
+
+

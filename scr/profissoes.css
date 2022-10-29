@@ -1,0 +1,40 @@
+.profissoes{
+    display: flex;
+    flex-direction: column;
+    padding: 0 2em;
+    gap: 2em;
+    margin: 0 16em;
+    
+}
+.profissoes__vaga{
+    padding: 0 0 0 2em;
+    line-height: 4em;
+    text-align: start;
+    border: 1px solid #EAECF0;
+    border-radius: 16px;   
+}
+
+.profissoes__titulo{
+    color: #101828;
+    font-size: 20px;
+    font-weight: 500;
+    margin: 2em 0;
+}
+
+.profissoes__titulo{
+    padding: 10px 0;
+    color: #101828;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.profissoes__informacoes{
+    color: #667085;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.profissoes__informacoes--primario{
+    margin-right: 2em;
+}
+

@@ -1,0 +1,31 @@
+.sobre{
+    display: block;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5em ;
+    height: 288px;
+}
+
+.sobre__titulo{
+    color: #8E2424;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 2em;
+}
+
+.sobre__titulo--subtitulo{
+    color: #101828;;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 3em;
+}
+
+.sobre__texto{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 1.5em;
+    color: #667085;
+    width: 60%;
+    display: inline-block;
+}
